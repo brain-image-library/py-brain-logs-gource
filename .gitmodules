@@ -1,0 +1,3 @@
+[submodule "py-brain-logs"]
+	path = py-brain-logs
+	url = git@github.com:brain-image-library/py-brain-logs.git
